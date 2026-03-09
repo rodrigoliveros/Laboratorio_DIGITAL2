@@ -1,0 +1,11 @@
+../Core/Src/main.c:84:5:main	4
+../Core/Src/main.c:144:6:SystemClock_Config	3
+../Core/Src/main.c:192:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:225:13:MX_GPIO_Init	1
+../Core/Src/main.c:302:6:ActualizarLEDs1	1
+../Core/Src/main.c:310:6:ActualizarLEDs2	1
+../Core/Src/main.c:319:6:ActualizarGANADOR1	1
+../Core/Src/main.c:326:6:ActualizarGANADOR2	1
+../Core/Src/main.c:333:6:MostrarNumero	7
+../Core/Src/main.c:385:6:HAL_GPIO_EXTI_Callback	12
+../Core/Src/main.c:444:6:Error_Handler	1
